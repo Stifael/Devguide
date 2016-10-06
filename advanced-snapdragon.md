@@ -59,6 +59,7 @@ Make sure the board can be found using fastboot:
 ```
 fastboot devices
 ```
+If permission error occurs, change the [USB permissions](#usb-permissions)!
 
 Download the latest BSP from Intrinsyc:
 
